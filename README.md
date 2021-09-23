@@ -13,3 +13,4 @@
 >3.我已经了解了Markdown、Git和Linux、Python的一些基本知识，还待强化
 ***
 # GitHub
+![git笔记](C:/Users/86157/Desktop/git入门笔记上)
