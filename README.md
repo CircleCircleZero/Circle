@@ -5,7 +5,7 @@
 学了`Markdown`这个东西后，发现它真的还挺好用，尤其是**记笔记**超级nice，比`Word文档`快捷多了，搭配`typora`一起使用，简直是方便极了。
 于是我就开始用`Markdown`记录了很多笔记，包括补的之前的笔记，有`Git、Markdown、Linux、Python`等的一些小笔记。
 [我的GitHub](https://github.com/CircleCircleZero/test..git)
-![我的照片](C:\Users\86157\Desktop\no.2\学习使我快乐\学习使我快乐.jpg)
+![照片](C:\Users\86157\Desktop\no.2\学习使我快乐\学习使我快乐.jpg)
 
 >总结：
 >1.我的自学能力很强，可以自主学习绝大多数东西
